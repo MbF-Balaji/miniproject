@@ -1,0 +1,11 @@
+<%= form.fields_for :qualification do | o | %>
+  <p>
+  <%= o.label :school_name %>
+  <%= o.text_field :school_institution_name %>
+  </p>
+  <p>
+  <%= o.label :percentage %>
+  <%= o.number_field :percentage %>
+  </p>
+  
+  <% end %>

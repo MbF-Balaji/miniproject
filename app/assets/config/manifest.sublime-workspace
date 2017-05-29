@@ -1,0 +1,666 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lang",
+				"lang_known"
+			],
+			[
+				"lan",
+				"languages_known"
+			],
+			[
+				"user_",
+				"user_detail"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"say",
+				"say_hi"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"Pa",
+				"Parameters"
+			],
+			[
+				"file",
+				"file_dim"
+			],
+			[
+				"story",
+				"story"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"char",
+				"charCode"
+			],
+			[
+				"va",
+				"valid"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"do",
+				"dob\tInsert do |variable| … end"
+			],
+			[
+				"H",
+				"Homecontent"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"er",
+				"error-row"
+			],
+			[
+				"error",
+				"error-message"
+			],
+			[
+				"fo",
+				"form-row"
+			],
+			[
+				"select",
+				"select-menu"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"vali",
+				"validates"
+			],
+			[
+				"mo",
+				"motorcycle"
+			],
+			[
+				"ter",
+				"termsCond"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"man",
+				"man_year"
+			],
+			[
+				"model",
+				"model_name"
+			],
+			[
+				"bike",
+				"bike_category"
+			],
+			[
+				"year",
+				"year"
+			],
+			[
+				"stoy",
+				"story_path"
+			],
+			[
+				"o",
+				"ownername"
+			],
+			[
+				"st",
+				"stories"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"new",
+				"new"
+			],
+			[
+				"add",
+				"add-image"
+			],
+			[
+				"image_",
+				"image_tag"
+			],
+			[
+				"about",
+				"aboutcontent"
+			],
+			[
+				"owner",
+				"ownerlocation"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"sho",
+				"shortcode"
+			],
+			[
+				"text",
+				"text_field"
+			],
+			[
+				"ho",
+				"home"
+			],
+			[
+				"max",
+				"maximum"
+			],
+			[
+				"validates_",
+				"validates_length_of"
+			],
+			[
+				"fi",
+				"find"
+			],
+			[
+				"html",
+				"html_safe"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"test",
+				"test"
+			],
+			[
+				"gs",
+				"gsub"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"ckeditor",
+				"ck_editor"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"pag",
+				"pages"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/views/steps/step2.html.erb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/views/steps/step1.html.erb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/views/user_details/step2.html.erb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/views/user_steps/User_Details.html.erb",
+		"/home/admin-phonegap/basicrails/ecommercedemo2/Gemfile",
+		"/home/admin-phonegap/basicrails/ecommercedemo2/config/database.yml",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/views/user_details/new.html.erb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/controllers/user_details_controller.rb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/controllers/user_steps_controller.rb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/views/languages_known/_form.html.erb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/models/languages_known.rb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/models/languages_collection.rb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/models/additional_skill.rb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/config/routes.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/config/routes.rb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/models/user_detail.rb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/models/qualification.rb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/views/user_details/_form.html.erb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/views/user_details/User_Details.html.erb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/views/user_detail_steps/User_Details.html.erb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/views/user_details/Verification.html.erb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/views/user_details/Qualification.html.erb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/Gemfile",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/assets/stylesheets/scaffolds.scss",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/assets/stylesheets/application.css",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/assets/stylesheets/user_details.scss",
+		"/home/admin-phonegap/basicrails/demo/app/controllers/students_controller.rb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/db/migrate/20170519045958_create_languages_collections.rb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/db/migrate/20170522102007_create_user_details.rb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/views/qualification/_form.html.erb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/views/additional_skills/_form.html.erb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/views/additional_qualification/_form.html.erb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/config/database.yml",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/db/migrate/20170519045714_create_additional_skills.rb",
+		"/home/admin-phonegap/basicrails/Mini_Project_1/app/models/userdetail.rb",
+		"/home/admin-phonegap/basicrails/ecommercedemo/config/initializers/spree.rb",
+		"/home/admin-phonegap/basicrails/ecommercedemo/app/views/spree/home/index.html.erb",
+		"/home/admin-phonegap/basicrails/ecommercedemo/app/views/spree/shared/_main_nav_bar.html.erb",
+		"/home/admin-phonegap/basicrails/ecommercedemo/app/views/spree/shared/_nav_bar.html.erb",
+		"/home/admin-phonegap/basicrails/ecommercedemo/app/views/spree/shared/_header.html.erb",
+		"/home/admin-phonegap/basicrails/ecommercedemo/vendor/assets/stylesheets/spree/frontend/-frontend.css",
+		"/home/admin-phonegap/basicrails/ecommercedemo/app/views/spree/shared/_products.html.erb",
+		"/home/admin-phonegap/basicrails/ecommercedemo/vendor/assets/javascripts/spree/frontend/all.js",
+		"/home/admin-phonegap/basicrails/ecommercedemo/vendor/assets/stylesheets/spree/frontend/all.css",
+		"/home/admin-phonegap/basicrails/ecommercedemo/Gemfile",
+		"/home/admin-phonegap/basicrails/ecommercedemo/app/assets/stylesheets/style.css",
+		"/home/admin-phonegap/basicrails/ecommercedemo/app/assets/javascripts/application.js",
+		"/home/admin-phonegap/basicrails/ecommercedemo/Gemfile.lock",
+		"/home/admin-phonegap/basicrails/demo/config/routes.rb",
+		"/home/admin-phonegap/basicrails/ecommercedemo/config/database.yml",
+		"/home/admin-phonegap/basicrails/demo/vendor/assets/stylesheets/spree/frontend/all.css",
+		"/home/admin-phonegap/basicrails/demo/Gemfile",
+		"/home/admin-phonegap/basicrails/ecommercedemo/vendor/assets/images/logo",
+		"/home/admin-phonegap/basicrails/ecommercedemo/app/views/spree/checkout/edit.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/config/database.yml",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/config/initializers/rails_admin.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/Gemfile",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/default/terms.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/controllers/application_controller.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/controllers/sharestories_controller.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/assets/stylesheets/style.css",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/motorcyles/index.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/motorcyles/show.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/sharestories/new.html.erb",
+		"/home/admin-phonegap/test.rb",
+		"/home/admin-phonegap/basicrails/RubyDemo/rubydemo.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/models/story.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/stories/show.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/assets/javascripts/validation.js",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/helpers/stories_helper.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/assets/javascripts/global.min.js",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/models/query.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/models/sharestory.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/share_story_mailer/sharestory_email.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/share_story_mailer/sharestory_email.text.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/config/environments/production.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/config/initializers/lograge.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/users/sessions/new.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/users/registrations/new.html.erb",
+		"/home/admin-phonegap/basicrails/demo/db/schema.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/models/motorcyle.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/default/newsletter.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/default/contact.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/stories/index.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/default/index.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/controllers/default_controller.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/controllers/stories_controller.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/default/generic.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/controllers/motorcyles_controller.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/models/homecontent.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/models/credential.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/db/migrate/20170503060948_add_sharestoryindexdesc_and_yourstorydesc_and_yourphotosdesc_and_motoslidedesc_to_homecontents.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/db/migrate/20170502122055_change_story_content_to_sharestories.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/db/migrate/20170502093843_add_motorcycledesc_to_motorcyles.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/errors/not_found.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/errors/internal_server_error.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/config/secrets.yml",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/default/about.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/layouts/application.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/layouts/_footer.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/layouts/_newsletter.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/default/privacy.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/stories/new.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/layouts/_header.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/db/migrate/20170428080800_create_credentials.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/config/application.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/mailers/application_mailer.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/config/environments/development.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/mailers/admin_mailer.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/mailers/share_story_mailer.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/uploaders/image_uploader.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/config/locales/devise.en.yml",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views/layouts/_globalerror.html.erb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/helpers/application_helper.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/assets/javascripts/application.js",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/db/migrate/20170428021123_remove_year_from_sharestories.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/db/migrate/20170428004416_rename_phone.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/public/javascripts/validation.js",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/test/models/sharedstory_test.rb",
+		"/home/admin-phonegap/basicrails/demo/app/views/layouts/application.html.erb",
+		"/home/admin-phonegap/Desktop/sharestory_old.rails",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/models/museum.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/db/migrate/20170427215954_add_year_and_content_and_landingimage_and_paddingimage_to_museums.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/controllers/museums_controller.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/db/migrate/20170427181416_add_reference_to_stories.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/db/migrate/20170427180046_add_reference_to_stories.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/db/migrate/20170427171925_create_brands.rb",
+		"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/db/migrate/20170427175539_add_reference_to_stories.rb"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi",
+			"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app/views",
+			"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi",
+			"/home/admin-phonegap/MadeByFire/Yezdi_content",
+			"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app",
+			"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi",
+			"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/app",
+			"/home/admin-phonegap/MadeByFire/Yezdi_content/yezdi/db/migrate",
+			"/home/admin-phonegap/MadeByFire/Yezdi_content",
+			"/home/admin-phonegap/MadeByFire/yezdi-production/yezdi",
+			"/home/admin-phonegap/MadeByFire/yezdi-production",
+			"/home/admin-phonegap/MadeByFire/yezdi-production/yezdi",
+			"/home/admin-phonegap/MadeByFire/yezdi-production",
+			"/home/admin-phonegap/MadeByFire/yezdi",
+			"/home/admin-phonegap/MadeByFire/yezdi/app/views",
+			"/home/admin-phonegap/MadeByFire/yezdi",
+			"/home/admin-phonegap/basicrails/auth4",
+			"/home/admin-phonegap/basicrails/auth3/app",
+			"/home/admin-phonegap/basicrails/demo_cms",
+			"/home/admin-phonegap/basicrails/demo_cms/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$('.single-item').slick();\n",
+			"single-item",
+			"'.single-item'",
+			"banner_slid",
+			"opacity",
+			"body",
+			"opacity",
+			"opa",
+			"homepage",
+			"home",
+			"homepage_products",
+			"clearfix",
+			"banner",
+			"banner clearfix",
+			"spree_co",
+			"/images/drop-down.jpg",
+			"numCheck",
+			"namenumErr",
+			"spaceCheck",
+			"phone",
+			"validateEmail",
+			"nameSpaceErr",
+			"ripp",
+			"sharestories",
+			"first",
+			"errorText",
+			"input-item",
+			"function contactusvalidate()",
+			"model",
+			"ActionMailer",
+			"ENV['password'] ",
+			"ENV['admin_email_list']",
+			"ENV['mailChimpkey'",
+			"ENV['mailChimpListId']",
+			"ENV['storelocation']",
+			"option",
+			"[{\"brandname\":\"YEZDI\",\"model\":\"176\",\"year\":\"2000\"}]",
+			"bike_category",
+			"model_name",
+			"model",
+			"model_name",
+			"man_year",
+			"year",
+			"man_year",
+			"shortcode",
+			"each",
+			"space",
+			"sharestory",
+			"unauthenticated",
+			"add-image-restrict",
+			"err_term",
+			"maxlist",
+			"landingimage_cache",
+			"remove_landingimage",
+			"motorcyle",
+			"alert",
+			"hidde",
+			"year",
+			"photourl",
+			", :name => \"filename[]\"",
+			">\n",
+			"wow",
+			"globalMsg",
+			"header",
+			"fonts",
+			"subwraper",
+			"subw",
+			"            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n            thumb.present? ? uploader.send(thumb).url : uploader.url\n",
+			"theme-global",
+			"global",
+			"theme",
+			"original_file",
+			"flash",
+			"object.errors",
+			"config.js",
+			"config",
+			"config.",
+			";",
+			"config.enable_processing = true ",
+			"rails",
+			"confi",
+			"config.",
+			"config.enable_processing",
+			"config.enable_processing = true ",
+			"carrierwave.rb",
+			"carrierwaverb",
+			".html_safe",
+			"shortcodeimg",
+			"config.js",
+			"shortcode",
+			"numeric(",
+			"175",
+			"images/",
+			"When passion crashes the age barrier.",
+			"@ 72, passion is still in fashion!",
+			"RAJJ GOVINDRA",
+			"A bridge across the generations",
+			"The Jawa Doctor is in, please be seated.",
+			"Passion makes work, play",
+			"YEZDI ROADKING",
+			"YEZDI ROADKING\n",
+			"Just a girl who wants to have fun!",
+			"Gender unbiased!",
+			"1982",
+			"ROADKING",
+			"Passion makes work, play",
+			"Passion makes wor",
+			"Passion makes work, play ",
+			"1982",
+			"YEZDI ROADKING",
+			"gende",
+			"find",
+			"destroy_user_session_path",
+			"user_controller",
+			"post_type",
+			"cama_posts",
+			"content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"brandname",
+			"model",
+			"year",
+			"",
+			"<%= image_path('yezdi-bike1.png') %>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manifest.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 389.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

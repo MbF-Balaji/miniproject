@@ -1,0 +1,10 @@
+<%= form.fields_for :additional_qualification do | r | %>
+<p>
+  <%= r.label :diplomo_name_UG %>
+  <%= r.text_field :school_institution_name %>
+  </p>
+  <p>
+  <%= r.label :percentage %>
+  <%= r.number_field :percentage %>
+  </p>
+  <% end %>
