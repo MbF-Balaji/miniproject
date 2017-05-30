@@ -1,40 +1,46 @@
-<center><h1>New User Detail</h1></center>
-<%= form_tag :action => 'step1', :controller => 'user' do |f| %>
+<form method="post" id="form" action="<%= user_step2_path %>" novalidate ">
+        <input name="authenticity_token" type="hidden" value="<%= form_authenticity_token %>">
   <div class="form-horizontal">
   <div class="form-group">
-  <%= label_tag(:Name,nil, class: 'col-sm-5 control-label') %>
+  <label class="col-sm-5 control-label">School_name</label>
   <div class="col-sm-2">
-  <%= text_field_tag :name,nil, class: 'form-control', id: 'name', placeholder: 'enter your name' %>
+  <input type="text" name="school_name" id="school_name" class="form-control" value="" />
   </div>
   </div>
   <div class="form-group">
-  <%= label_tag :Email,nil, class: 'col-sm-5 control-label'  %>
+  <label class="col-sm-5 control-label">Percentage</label>
   <div class="col-sm-2">
-  <%= text_field_tag :email,nil, class: 'form-control', id: 'email', placeholder: 'example@mail.com'   %>
+  <input type="text" name="percentage" id="percentage" class="form-control" value="" />
   </div>
   </div>
   <div class="form-group">
-  <%= label_tag :Phone,nil, :class => "col-sm-5 control-label"  %>
+  <label class="col-sm-5 control-label">Institution_name</label>
   <div class="col-sm-2">
-  <%= text_field_tag :phone,nil, :class => "form-control", :id => "phone",  :placeholder => "Enter your phone no" %>
+  <input type="text" name="institution_name" id="institution_name" class="form-control" value="" />
   </div>
   </div>
   <div class="form-group">
-  <%= label_tag :City,nil, :class => "col-sm-5 control-label"  %>
+  <label class="col-sm-5 control-label">Percentage</label>
   <div class="col-sm-2">
-  <%= text_field_tag :city,nil, :class => "form-control", :id => "city",  :placeholder => "Enter your city" %>
+  <input type="text" name="percentage" id="percentage" class="form-control" value="" />
   </div>
   </div>
+  </div>
+  <center><h2>Additional Skills</h2></center>
+  <div class="form-horizontal">
   <div class="form-group">
-  <%= label_tag :Country,nil, :class => "col-sm-5 control-label" %>
+  <label class="col-sm-5 control-label">Skills</label>
   <div class="col-sm-2">
-  <%= text_field_tag :country,nil, :class => "form-control", :id => "country",  :placeholder => "Enter your country"  %>
+  <input type="text" name="skills" id="skills" class="form-control" value="" />
   </div>
   </div>
-</div>  
-<div class="form-group"> 
-<div class="col-sm-offset-5 col-sm-10"> 
-<%= submit_tag "SUBMIT", :class => "btn btn-primary col-sm-1" %>  
-</div> 
-</div> 
-<% end %>
+  </div>
+  <center><h2>Languages Known</h2></center>
+  <div class="form-horizontal">
+  <div class="form-group">
+  <label class="col-sm-5 control-label">Languages_known</label>
+  <div class="col-sm-2">
+  <input type="text" name="user_language" id="user_language" class="form-control" value="" />
+  </div>
+  </div>
+  </div>

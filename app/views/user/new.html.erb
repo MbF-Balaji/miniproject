@@ -1,4 +1,5 @@
-<form method="post" id="form" action="<%= user_new_path %>" novalidate ">
+<center><h1>New User Detail</h1></center>
+<form method="post" id="form" action="<%= user_step2_path %>" novalidate ">
         <input name="authenticity_token" type="hidden" value="<%= form_authenticity_token %>">
   <div class="form-horizontal">
   <div class="form-group">
@@ -7,6 +8,32 @@
   <input type="text" name="name" id="name" class="form-control" value="" />
   </div>
   </div>
-        <button class="button">Submit</button>  
+  <div class="form-group">
+  <label class="col-sm-5 control-label" %>Email</label>
+  <div class="col-sm-2">
+  <input type="text" name="email" id="email" class="form-control" value="" />
+  </div>
+  </div>
+  <div class="form-group">
+  <label class="col-sm-5 control-label" %>Phone</label>
+  <div class="col-sm-2">
+  <input type="text" name="phone" id="phone" class="form-control" value="" />
+  </div>
+  </div>
+  <div class="form-group">
+  <label class="col-sm-5 control-label" %>City</label>
+  <div class="col-sm-2">
+  <input type="text" name="city" id="city" class="form-control" value="" />
+  </div>
+  </div>
+  <div class="form-group">
+  <label class="col-sm-5 control-label" %>Country</label>
+  <div class="col-sm-2">
+  <input type="text" name="country" id="country" class="form-control" value="" />
+  </div>
+  </div>
+  <div class="col-sm-offset-5 col-sm-10"> 
+    <button class="btn btn-primary col-sm-1">Submit</button>  
+  </div>
     </div>
     </form>
