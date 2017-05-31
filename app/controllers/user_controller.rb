@@ -3,12 +3,15 @@ class UserController < ApplicationController
 
   def new 
     session[:value] = params[:name]
-    if session[:value].present?
+      if session[:value].present?
+     redirect_to user_step1_path
+    end
+  end
+  def step1
+    session[:value2] = params[:skills]
+    if session[:value2].present?
      redirect_to user_step2_path
     end
-   end
-def step1
-    session[:value3] = params[:city]
   end
   def save 
      @verification = UserDetail.new()
@@ -22,11 +25,11 @@ def step1
   
 
   def step2
-    session[:value2] = params[:email]
+    session[:value3] = params[:email]
   # # @lang_known = Languages_Known.new
   # session[:value] = params[:user_language]
   #    @form2 = session[:value]
-     if session[:value2].present?
+    if session[:value3].present?
      redirect_to user_step1_path
     end
   end

@@ -1,11 +1,16 @@
 <center><h1>New User Detail</h1></center>
-<form method="post" id="form" action="<%= user_step2_path %>" novalidate ">
+<form method="post" id=msform" action="<%= user_new_path %>" novalidate ">
         <input name="authenticity_token" type="hidden" value="<%= form_authenticity_token %>">
+        <!-- <ul id="progressbar">
+<li class="active">Create Account</li>
+<li>Educational Profiles</li>
+<li>Personal Details</li>
+</ul> -->
   <div class="form-horizontal">
   <div class="form-group">
   <label class="col-sm-5 control-label" %>name</label>
   <div class="col-sm-2">
-  <input type="text" name="name" id="name" class="form-control" value="" />
+  <input type="text" name="name" id="name" class="form-control" <% if session[:value].present? %> value = "<%= session[:value] %>"<% end %> />
   </div>
   </div>
   <div class="form-group">
@@ -33,7 +38,7 @@
   </div>
   </div>
   <div class="col-sm-offset-5 col-sm-10"> 
-    <button class="btn btn-primary col-sm-1">Submit</button>  
+    <button class="btn btn-primary col-sm-1 submit action-button">Submit</button>  
   </div>
-    </div>
+  </div>
     </form>

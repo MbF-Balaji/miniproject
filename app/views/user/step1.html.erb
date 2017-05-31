@@ -1,10 +1,15 @@
-<form method="post" id="form" action="<%= user_step2_path %>" novalidate ">
+<form method="post" id="form" action="<%= user_step1_path %>" novalidate ">
         <input name="authenticity_token" type="hidden" value="<%= form_authenticity_token %>">
+<!-- <ul id="progressbar">
+<li>Create Account</li>
+<li class="active">Educational Profiles</li>
+<li>Personal Details</li>
+</ul> -->
   <div class="form-horizontal">
   <div class="form-group">
   <label class="col-sm-5 control-label">School_name</label>
   <div class="col-sm-2">
-  <input type="text" name="school_name" id="school_name" class="form-control" value="" />
+  <input type="text" name="school_name" id="school_name" class="form-control" value="<%= session[:value]%>" />
   </div>
   </div>
   <div class="form-group">
@@ -42,5 +47,8 @@
   <div class="col-sm-2">
   <input type="text" name="user_language" id="user_language" class="form-control" value="" />
   </div>
+  </div>
+  <div class="col-sm-offset-5 col-sm-10"> 
+    <button class="btn btn-primary col-sm-1">Submit</button>  
   </div>
   </div>

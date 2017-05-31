@@ -9,6 +9,23 @@
   </head>
 
   <body>
+  <ul id="progressbar">
+     <% if request.path.include? user_new_path %>
+     <li class="active">User Details</li>
+     <% else %>
+     <li> User Details</li>
+     <% end %>
+     <% if request.path.include? user_step1_path %>
+     <li class="active">Qualification</li>
+     <% else %>
+     <li>Qualification</li>
+     <% end %>
+     <% if request.path.include? user_step2_path %>
+     <li class="active">verification</li>
+     <% else %>
+     <li>verification</li>
+     <% end %>
+  </ul>
     <%= yield %>
   </body>
 </html>
