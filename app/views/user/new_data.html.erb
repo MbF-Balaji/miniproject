@@ -1,44 +1,44 @@
 <center><h1>New User Detail</h1></center>
-<form method="post" id="msform" action="<%= user_new_path %>" novalidate ">
+<form method="post" id="new_form" action="<%= user_extra_path %>" novalidate ">
         <input name="authenticity_token" type="hidden" value="<%= form_authenticity_token %>">
         <!-- <ul id="progressbar">
 <li class="active">Create Account</li>
 <li>Educational Profiles</li>
-<li>Personal Details</li>
+<li>Personal Details
 </ul> -->
   <div class="form-horizontal">
   <div class="form-group">
-  <label class="col-sm-5 control-label" %>name</label>
+  <label class="col-sm-5 control-label" %>Name</label>
   <div class="col-sm-2">
-  <input type="text" name="name" id="name" class="form-control" <% if session[:value0].present? %> value = "<%= session[:value] %>"<% end %> />
+  <input type="text" name="name" id="name" class="form-control" <% if session[:value0].present? %> value = "<%= session[:value0] %>"<% end %> />
   </div>
   </div>
   <div class="form-group">
   <label class="col-sm-5 control-label" %>Email</label>
   <div class="col-sm-2">
-  <input type="text" name="email" id="email" class="form-control" value="<%= session[:value1] %>"" />
+  <input type="text" name="email" id="email" class="form-control" value="<%= session[:value1] %>" />
   </div>
   </div>
   <div class="form-group">
   <label class="col-sm-5 control-label" %>Phone</label>
   <div class="col-sm-2">
-  <input type="text" name="phone" id="phone" class="form-control" value="<%= session[:value2] %>"" />
+  <input type="text" name="phone" id="phone" class="form-control" value="<%= session[:value2] %>" />
   </div>
   </div>
   <div class="form-group">
   <label class="col-sm-5 control-label" %>City</label>
   <div class="col-sm-2">
-  <input type="text" name="city" id="city" class="form-control" value="<%= session[:value3] %>"" />
+  <input type="text" name="city" id="city" class="form-control" value="<%= session[:value3] %>" />
   </div>
   </div>
   <div class="form-group">
   <label class="col-sm-5 control-label" %>Country</label>
   <div class="col-sm-2">
-  <input type="text" name="country" id="country" class="form-control" value="<%= session[:value4] %>"" />
+  <input type="text" name="country" id="country" class="form-control" value="<%= session[:value4] %>" />
   </div>
   </div>
   <div class="col-sm-offset-5 col-sm-10"> 
     <button class="btn btn-primary col-sm-1 submit action-button">Submit</button>  
   </div>
   </div>
-    </form>
+  </form>
