@@ -60,6 +60,29 @@ body {
 #progressbar li.active:before{
 	background-color: green;
 }
-
+/*css for adding icon*/
+.accordion_container {
+ 	width: 500px;
+}
+.accordion_head {
+	background: url(images/red.png) brown;
+    color: white;
+    cursor: pointer;
+    font-family: arial;
+    font-size: 14px;
+	margin: 0 0 1px 0;
+    padding: 7px 11px;
+	font-weight: bold;
+}
+.accordion_body {
+	background: lightgray;
+}
+.accordion_body p{
+	padding: 5px;
+	margin: 0px;
+}
+.plusminus{
+	float:right;
+} 
 
 

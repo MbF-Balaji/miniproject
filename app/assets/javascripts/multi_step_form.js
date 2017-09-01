@@ -85,12 +85,25 @@ $(".previous").click(function(){
 //         return false;
 //     }
 // });
-$(function() {
-	// body...
+// $(function() {
+// 	// body...
 
-$(".fa fa-plus btn").click(function(){
-	alert('clicked')
-    $(".adding").append('  <div class="form-group"><label class="col-sm-5 control-label">Institution_name</label><div class="col-sm-2"><input type="text" name="institution_name" id="institution_name" class="form-control" value="<%= session[:value7]%>" /> </div></div>');  
-  });
-alert('clicked')	
+// $(".fa fa-plus btn").click(function(){
+// 	alert('clicked')
+//     $(".adding").append('  <div class="form-group"><label class="col-sm-5 control-label">Institution_name</label><div class="col-sm-2"><input type="text" name="institution_name" id="institution_name" class="form-control" value="<%= session[:value7]%>" /> </div></div>');  
+//   });
+// alert('clicked')	
+// });
+
+// adding icon 
+$(document).ready(function(){
+	//toggle the componenet with class accordion_body
+	$(".accordion_head").click(function(){
+		if ($('.accordion_body').is(':visible')) {
+			$(".accordion_body").slideUp(600);
+			$(".plusminus").text('+');
+		}
+		$(this).next(".accordion_body").slideDown(600); 
+		$(this).children(".plusminus").text('-');
+	});
 });
